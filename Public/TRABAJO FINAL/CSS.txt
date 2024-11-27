@@ -1,0 +1,303 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+header{
+    background: black;
+    background-image: url(/img/Background.jpg);
+    background-size: cover;
+    height: 450px;
+    overflow: hidden;
+    text-decoration: none;
+    color: #5FC566;
+    text-align: center;
+}
+.logo{
+    height: 280px;
+    width: 300px;
+    position: relative;
+    right: 35%;
+    top: 20%;
+}
+.redessociales{
+    height: 40px;
+    width: 40px;
+    position: relative;
+    right: 50%;
+    top: 35%;
+}
+.caja{
+    background: black;
+    overflow: hidden;
+    text-decoration: none;
+    color: #5FC566;
+    text-align: center;
+    
+}
+.nav-enlace{ 
+    text-decoration: none;
+    color: #5FC566;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: black;
+}
+.nav-enlace:hover{
+    background: white;
+    text-decoration: underline;
+}
+nav{
+    background: #33a33a;
+    padding: 7px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.nav-botton{
+    background: black;
+    color: #fff;
+}
+
+body{
+    margin: 0;
+	margin-left: 0;
+	margin-top: 0;
+	margin-right: 0;
+    
+}
+.productos{
+    background: black;
+    overflow: hidden;
+    text-decoration: none;
+    color: #5FC566;
+    text-align: center;
+    
+}
+.imagen{
+   
+    width: 1600px;
+    height: 800px;
+
+}
+.productos{
+    background: black;
+    height: 2550px;
+    overflow: hidden;
+    text-decoration: none;
+    color: #5FC566;
+    text-align: center;
+    font-size: 50px;
+}
+.textoinicial{
+    text-align: center;
+    
+}
+.video{
+    width: 1600px;
+    height: 700px;
+
+}
+.caja2{
+    background: black;
+    overflow: hidden;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+.productos2{
+    background: #33a33a;
+    background-image: url(/img/bolso.jpg);
+    height: 990px;
+    overflow: hidden;
+    text-decoration: none;
+    color: #33a33a;
+    text-align: center;
+    font-size: 50px;
+}
+.textoinicial2{
+    
+    text-decoration: none;
+    text-align: center;
+    color: #33a33a;
+    font-size: 50px;
+}
+.imagen2{
+    padding: 0;
+    background-color: #33a33a;
+    width: 400px;
+    height: 400px;
+}
+.imagen3{
+    background-color: #33a33a;
+    width: 400px;
+    height: 400px;
+}
+.imagen4{
+    background-color: #33a33a;
+    width: 400px;
+    height: 400px;
+}
+.caja3{
+    background: black;
+    overflow: hidden;
+    text-decoration: none;
+    color: #5FC566;
+    text-align: center;
+    
+}
+#productos3{
+    background: black;
+    height: 1300px;
+    overflow: hidden;
+    text-decoration: none;
+    color: #5FC566;
+    text-align: center;
+    font-size: 50px;
+}
+.textoinicial3{
+    text-align: center;
+    font-size: 50px;
+   
+}
+.imagen{
+   
+    width: 1000px;
+    height: 700px;
+}
+footer {
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+  }
+  .imagenfooter{
+    background-color: none;
+    height: 150px;
+    width: 150px;
+}
+#redes{
+    background: black;
+    padding: 7px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.redes{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    text-transform:capitalize;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #33a33a;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 100px;
+}
+
+/* AQUI INICIA LA PESTANA ENCUENTRANOS*/
+.mapa{
+    width: 1200px;
+    height: 700px;
+    position: relative;
+    top: 1cm;
+}
+.caja-negra{
+    background-color: black;
+    width: 1000px;
+    height: 500px;
+    position: relative;
+    left: 20%;
+}
+.textoinicialencuentranos{
+    font-size: 50px;
+    color: #33a33a;
+}
+.ubicanos{
+    background-image: url(/img/skatepark.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1310px;
+    overflow: hidden;
+    text-decoration: none;
+    color: #33a33a;
+    text-align: center;
+    font-size: 40px;
+}
+/* AQUI TERMINA LA PESTANA ENCUENTRANOS*/
+
+/*TIENDA */
+
+.productos-tienda{
+    background: black;
+    overflow: hidden;
+    text-decoration: none;
+    color: #5FC566;
+    text-align: center;
+    font-size: 50px;
+}
+.marcas{
+    background: #33a33a;
+    overflow: hidden;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    font-size: 50px;
+}
+.productos-piezas{
+    background: black;
+    overflow: hidden;
+    text-decoration: none;
+    color: #5FC566;
+    text-align: center;
+    font-size: 50px;
+}
+
+.imagen5{
+    padding: 0;
+    background-color: black;
+    width: 400px;
+    height: 400px;
+}
+
+/*TIENDA FINAL*/
+
+/* QUIENES SOMOS*/
+
+.caja-historia{
+    background: black;
+    overflow: hidden;
+    text-decoration: none;
+    color: #5FC566;
+    text-align: center;
+    font-size: 50px;
+    height: 990px;
+}
+.box-historia{
+    background-color: #33a33a;
+    width: 1000px;
+    height: 100px;
+    position: relative;
+    left: 20%;
+    text-decoration: none;
+    color: black;
+}
+.texto-historia{
+    background-color: #33a33a;
+    width: 1200px;
+    height: 700px;
+    position: relative;
+    left: 14%;
+    text-decoration: none;
+    color: black;
+}
+.parrafo{
+    font-size: 30px;
+    justify-content: center;
+}
+.texto-footer{
+    text-decoration: none;
+    color: #33a33a;
+    font-size: 20px;
+}

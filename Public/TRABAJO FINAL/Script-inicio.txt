@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@100&family=Playfair+Display:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="CSS/lightbuld.css">
+    <link rel="stylesheet" href="CSS/normalize.css">
+    <title>LightbuldSkateShop</title>
+</head>
+<header>
+    <a href="http://127.0.0.1:5500/Lightbulb-inicio-freddy.html">
+    <img class="logo" src="img/profile.png" alt="">
+</a>
+    <a href="https://www.instagram.com/lightbulbskateshop/">
+    <img class="redessociales" src="img/icons8-instagram-50.png">
+</a>
+<a href="https://www.facebook.com/lightbulbskateshop">
+    <img class="redessociales" src="img/icons8-facebook-50.png">
+</a>
+<a href="https://api.whatsapp.com/send?phone=%2B50577155805&data=AWDUQ9Dx03BbKX0viActgbugJy0LsNhK9UOXGm_zr0i6RaWaBPkaC_7tczhFxsbkILVFM1XeUMqh2mpr1JfKEs_V76tQIVzLrL3yo5nCdwqZKxc5bgPVb8rgSo_1EvrefMCPd0VpiCb6BE6QS6PDT76uden0PJCbsmS4PhpwlMqJE6bN4Ik1xQoLKZ3bkA3Sb5ycEGG8fpbEvf3q4V7JOxO4IEFjNRiJXXCeF6AlGYCKRU-JOkP7VDqYmlB31ILhfnPcxEQBstYjD0D5WEGRpw&source=FB_Page&app=facebook&entry_point=page_cta&fbclid=IwAR2PWD7LdEmb6wHQ3rDS_KhgcPU5OaWhqtbKSN0zC70-_qcbk3RDbRBSDS8">
+    <img class="redessociales" src="img/whatsapplogo.png">
+</a>
+<a href="https://www.youtube.com/@lightbulbskateshop6000">
+    <img class="redessociales" src="img/youtube.png">
+</a>
+</header>
+<nav> 
+    <a href="http://127.0.0.1:5500/Lightbulb-quienes-somos.html" class="nav-enlace">Quien somos?</a>
+    <a href="http://127.0.0.1:5500/Lightbulb-tienda-freddy.html" class="nav-enlace">Tienda</a>
+    <a href="http://127.0.0.1:5500/Lightbulb-encuentranos-freddy.html" class="nav-enlace">Encuentranos</a>
+    <a href="#" class="nav-enlace">Ayuda</a>
+</nav>
+<body>
+    <div class="caja">
+        <div class="productos">
+            <h1>Nuestro ultimo video</h1>
+            <p class="textoinicial" >Este nuevo video demuestra la habilidad que
+                nuestros team tiene, Tambien muestra los diferentes 
+                spot que se encuentran en toda nicaragua, este video 
+                fue grabado a lo largo de 3 meses. </p>
+                <iframe class="video" src="https://www.youtube.com/embed/watch?v=X0_AFEy9_4g" frameborder="0" allowfullscreen></iframe>
+            <h2> Nuestro team</h2>
+            <img class= imagen src="img/team1.jpg" alt="">
+            <p class="textoinicial"> A traves de nuestras redes sociales hemos
+                logrado apoyar al skateboarding Nicaraguense al dar patrocionio a varios
+                chavalos que han demostrado sus habilidades a lo largo de los años.
+
+                con esto damos a entender el compromiso que lightbuld tiene con todos 
+                los que desean practicar ese bello deporte.
+            </p>
+        </div>
+        <div class="caja2">
+            <div class="productos2"> 
+                <h1>Ultimos productos</h1>
+                <p class="textoinicial2"> Lightbuld siempre te trae lo ultimos 
+                    en marcas para practicar el deportes, aqui te dejamos los ultimos recibidos. 
+                </p>
+                <img class= imagen2 src="img/gorrobs.png" alt="">
+                <img class= imagen3 src="img/mochilaindy .png" alt="">
+                <img class= imagen4 src="img/truck1.png" alt="">
+            </div>
+            
+        </div>
+        <div class="caja3">
+            <div id="productos3"> 
+                <h1>Eventos cercanos</h1>
+                <p class="textoinicial3"> Este 22 de mayo, les estaremos trayendo
+                    el nuevo video de nuestro patinador estrella
+                    Abdel Lopez, el ha sido parte de nuestro
+                    movimiento por 5 años. 
+                </p>
+                <p class="textoinicial3">Este video esta lleno de grinds, gap,
+                    destruccion de spots Nicaraguenses.
+                    </p>
+                    <img class= imagen src="img/inicio4.png" alt="">
+            </div>
+            <nav> 
+                <a href="http://127.0.0.1:5500/Lightbulb-quienes-somos.html" class="nav-enlace">Quien somos?</a>
+                <a href="http://127.0.0.1:5500/Lightbulb-tienda-freddy.html" class="nav-enlace">Tienda</a>
+                <a href="http://127.0.0.1:5500/Lightbulb-encuentranos-freddy.html#" class="nav-enlace">Encuentranos</a>
+                <a href="#" class="nav-enlace">Ayuda</a>
+            </nav>
+    <footer>
+        <img class= imagenfooter src="img/logobg.png" alt="">
+        <p class="texto-footer">LightbuldSkateShop.ni</p>
+        <nav id="redes">
+          <ul class="redes">
+            <li><a href="https://www.facebook.com/lightbulbskateshop">Facebook</a></li>
+    <li><a href="https://www.youtube.com/@lightbulbskateshop6000">Youtube</a></li>
+    <li><a href="https://www.instagram.com/lightbulbskateshop/">Instagram</a></li>
+          </ul>
+        </nav>
+      </footer>
+      </footer>
+</body>
+</html>
+        
+</body>
+</html>

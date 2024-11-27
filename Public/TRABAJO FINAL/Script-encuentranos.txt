@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@100&family=Playfair+Display:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="CSS/lightbuld.css">
+    <link rel="stylesheet" href="CSS/normalize.css">
+    <title>LightbuldSkateShop-encuentranos</title>
+</head>
+<header>
+    <a href="http://127.0.0.1:5500/Lightbulb-inicio-freddy.html">
+        <img class="logo" src="img/profile.png" alt="">
+    </a>
+    <a href="https://www.instagram.com/lightbulbskateshop/">
+        <img class="redessociales" src="img/icons8-instagram-50.png">
+    </a>
+    <a href="https://www.facebook.com/lightbulbskateshop">
+        <img class="redessociales" src="img/icons8-facebook-50.png">
+    </a>
+    <a href="https://api.whatsapp.com/send?phone=%2B50577155805&data=AWDUQ9Dx03BbKX0viActgbugJy0LsNhK9UOXGm_zr0i6RaWaBPkaC_7tczhFxsbkILVFM1XeUMqh2mpr1JfKEs_V76tQIVzLrL3yo5nCdwqZKxc5bgPVb8rgSo_1EvrefMCPd0VpiCb6BE6QS6PDT76uden0PJCbsmS4PhpwlMqJE6bN4Ik1xQoLKZ3bkA3Sb5ycEGG8fpbEvf3q4V7JOxO4IEFjNRiJXXCeF6AlGYCKRU-JOkP7VDqYmlB31ILhfnPcxEQBstYjD0D5WEGRpw&source=FB_Page&app=facebook&entry_point=page_cta&fbclid=IwAR2PWD7LdEmb6wHQ3rDS_KhgcPU5OaWhqtbKSN0zC70-_qcbk3RDbRBSDS8">
+        <img class="redessociales" src="img/whatsapplogo.png">
+    </a>
+    <a href="https://www.youtube.com/@lightbulbskateshop6000">
+        <img class="redessociales" src="img/youtube.png">
+    </a>
+</header>
+<nav> 
+    <a href="http://127.0.0.1:5500/Lightbulb-quienes-somos.html" class="nav-enlace">Quien somos?</a>
+    <a href="http://127.0.0.1:5500/Lightbulb-tienda-freddy.html" class="nav-enlace">Tienda</a>
+    <a href="http://127.0.0.1:5500/Lightbulb-encuentranos-freddy.html#" class="nav-enlace">Encuentranos</a>
+    <a href="#" class="nav-enlace">Ayuda</a>
+</nav>
+<body>
+    <div class="caja">
+        <div class="ubicanos">
+            <section class="caja-negra">
+            <h1>Encuentranos</h1>
+            <p class="textoinicialencuentranos" >De la Vicky 1 cuadra al Sur, 75 varas arriba(Este), América, Nicaragua</p>
+            <p class="textoinicialencuentranos"> Numero de telefono: 7715 5805</p>
+            <p class="textoinicialencuentranos"> lightbulbskateshop@gmail.com</p>
+            </section>
+            <iframe class="mapa" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3833.1544571577765!2d-86.25498336114177!3d12.121608432730921!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f73fe1e5a1da069%3A0xcbc068888f097316!2sCalle%20Sevilla%2C%20Managua%2014027!5e0!3m2!1ses-419!2sni!4v1678828884712!5m2!1ses-419!2sni" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></>" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+        <nav> 
+            <a href="http://127.0.0.1:5500/Lightbulb-quienes-somos.html" class="nav-enlace">Quien somos?</a>
+            <a href="http://127.0.0.1:5500/Lightbulb-tienda-freddy.html" class="nav-enlace">Tienda</a>
+            <a href="http://127.0.0.1:5500/Lightbulb-encuentranos-freddy.html#" class="nav-enlace">Encuentranos</a>
+            <a href="#" class="nav-enlace">Ayuda</a>
+        </nav>
+<footer>
+    <img class= imagenfooter src="img/logobg.png" alt="">
+   <p class="texto-footer">LightbuldSkateShop.ni</p>
+    <nav id="redes">
+      <ul class="redes">
+        <li><a href="https://www.facebook.com/lightbulbskateshop">Facebook</a></li>
+        <li><a href="https://www.youtube.com/@lightbulbskateshop6000">Youtube</a></li>
+        <li><a href="https://www.instagram.com/lightbulbskateshop/">Instagram</a></li>
+      </ul>
+    </nav>
+  </footer>
+  </footer>
+  
+</body>
+</html>

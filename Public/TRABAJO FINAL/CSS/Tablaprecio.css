@@ -1,0 +1,81 @@
+body{
+
+    font-family: 'lato', sans-serif;
+}
+h2{
+    font-weight: 400;
+}
+p{
+    font-weight: 300;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+.container{
+    margin: 0 auto;
+    width: 90%;
+}
+.text-center{
+    text-align: center;
+}
+.columna{
+    background: rgb(228, 228, 228);
+    color: #333;
+    border: 1px solid #333;
+    margin: 0 auto; 
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 10px 10px 10px #d69696;
+    width: 23%;
+    box-sizing: border-box;
+}
+.precio{
+    font-size: 50px;
+    color: hsl(175, 100%, 43%);
+}
+.btn-precio{
+    background: rgb(207, 74, 7);
+    display: block;
+    padding: 10px;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+.btn-precio-hover{
+    background: rgb(101, 16, 7);
+    transition-property: all;
+    transition-duration: 0.5s;
+    transition-timing-function: linear;
+}
+
+@media (max-width:600px){
+    .columna{
+        width: 45%;
+        margin-bottom: 20px;
+    }
+}
+@media (max-width:600px){
+    .columna{
+        width: 100%;
+        color: #d69696;
+        margin-bottom: 20px;
+    }
+}
+
+@media (max-width: 1200px){
+    .precio{
+        width: 100%;
+        color: purple;
+        margin-bottom: 20px;
+    }
+    .precio{
+        background: #a7c62d;
+    }
+    .btn-precio{
+        background-color: azure;
+        color: #000;
+    }
+    
+}

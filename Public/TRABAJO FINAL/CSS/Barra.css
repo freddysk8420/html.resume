@@ -1,0 +1,23 @@
+#navegador ul{
+    list-style-type: none;
+    text-align: center;
+    background-color: #137dc4;
+    padding: 15px;
+ }
+ #navegador li{
+    display: inline-block;
+    text-align: center;
+    margin: 0 auto;
+ }
+ #navegador li a {
+    padding: 10px 30px;
+    color: #a4c413;
+    background-color: #665b98;
+    border: 2px solid #07d600;
+    text-decoration: none;
+ }
+ #navegador li a:hover{
+    background-color: #333333;
+    color: #db0995;
+    text-decoration: underline;
+ }
